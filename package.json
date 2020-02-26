@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/javiercasfer95/seminario_IoT#readme",
   "dependencies": {
-    "node-red": "^1.0.3"
+    "node-red": "^1.0.3",
+    "node-red-admin": "^0.1.5"
   }
 }
